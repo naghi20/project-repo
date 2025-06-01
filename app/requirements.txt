@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+
+# For Flask:
+# flask==2.3.2
+# gunicorn==20.1.0
